@@ -1,0 +1,23 @@
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\bin\Debug\Super Mercado con MySql.exe.config
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\bin\Debug\Super Mercado con MySql.exe
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\bin\Debug\Super Mercado con MySql.pdb
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\bin\Debug\Super Mercado con MySql.xml
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\obj\Debug\Super Mercado con MySql.vbprojAssemblyReference.cache
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\obj\Debug\Super_Mercado_con_MySql.Resources.resources
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\obj\Debug\Super Mercado con MySql.vbproj.GenerateResource.cache
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\obj\Debug\Super Mercado con MySql.vbproj.CoreCompileInputs.cache
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\obj\Debug\Super Mercado con MySql.exe
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\obj\Debug\Super Mercado con MySql.xml
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\obj\Debug\Super Mercado con MySql.pdb
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\obj\Debug\Super_Mercado_con_MySql.frmmenu.resources
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\bin\Debug\MySql.Data.dll
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\obj\Debug\Super Mercado con MySql.vbproj.CopyComplete
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\obj\Debug\Super_Mercado_con_MySql.frmpedido.resources
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\obj\Debug\Super_Mercado_con_MySql.frmregistroproducto.resources
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\obj\Debug\Super_Mercado_con_MySql.frmacerca.resources
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\obj\Debug\Super_Mercado_con_MySql.frmregistarcliente.resources
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\obj\Debug\Super_Mercado_con_MySql.frmBuscarCliente.resources
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\obj\Debug\Super_Mercado_con_MySql.frmusuario.resources
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\obj\Debug\Super_Mercado_con_MySql.frmsuperusuario.resources
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\obj\Debug\Super_Mercado_con_MySql.PresentacionPrincipal.resources
+C:\Users\dextt\OneDrive\Escritorio\base de datos supermercado proyecto final\Super Mercado con MySql\Super Mercado con MySql\obj\Debug\Super_Mercado_con_MySql.frmagregarusuario.resources

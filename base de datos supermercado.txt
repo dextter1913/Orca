@@ -1,0 +1,102 @@
+drop database if exists supermercado;
+create database supermercado;
+
+use supermercado;
+
+create table empleado(
+id_empleado int(10) primary key,
+NombreEmpl varchar(50),
+ApellEmpl varchar(50),
+CedulaEmpl int(16)
+)ENGINE=INNODB;
+
+create table cliente(
+id_cliente int(10) primary key auto_increment,
+NombreCli varchar(50),
+ApellCli varchar(50),
+CedulaCli int(16),
+TelCli varchar(25),
+DireccionCl varchar(100),
+CorreoCli varchar(50),
+id_empleado int(10),
+index (id_empleado),
+FOREIGN KEY (id_empleado) REFERENCES empleado(id_empleado)
+)ENGINE=INNODB;
+
+
+create table categoria(
+id_categoria int(6) primary key,
+categoria_prod varchar(50)
+)ENGINE=INNODB;
+
+create table producto(
+id_producto int(6) primary key auto_increment,
+nom_prod varchar(50),
+precio_prod int(15),
+id_categoria int(6),
+Index (id_categoria),
+FOREIGN  KEY (id_categoria) REFERENCES categoria(id_categoria)
+)ENGINE=INNODB;
+
+create table pedido(
+cod_compra int(6) primary key auto_increment,
+valor_factura int(10),
+fecha_pedido datetime,
+num_caja int(1),
+id_producto int(6),
+index (id_producto),
+FOREIGN  KEY (id_producto) REFERENCES producto(id_producto)
+)ENGINE=INNODB;
+
+create table superusuario(
+idsuperusuario int(10) primary key,
+superusuario varchar(50),
+superpassword varchar(50)
+)ENGINE=INNODB;
+
+create table usuarios(
+idusuario int(10) primary key,
+usuario varchar(50),
+password varchar(100)
+)ENGINE=INNODB;
+
+
+insert into usuarios values("1","dextter1913","Clau32290398");
+
+
+
+insert into categoria values("1","lacteos");
+insert into categoria values("2","verduras");
+insert into categoria values("3","implementos de aseo");
+insert into categoria values("4","carnes");
+insert into categoria values("5","granos");
+insert into categoria values("6","frutas");
+insert into categoria values("7","bebidas");
+insert into categoria values("8","condimentos");
+insert into categoria values("9","huevos");
+insert into categoria values("10","aseo personal");
+
+
+
+insert into producto values(null,"tomate","300","2");
+insert into producto values(null,"Cebolla","500","2");
+insert into producto values(null,"Cebolla de rama","650","2");
+insert into producto values(null,"Silantro","100","2");
+insert into producto values(null,"Abichuela","800","2");
+
+insert into pedido values (null,"10000",CURRENT_TIMESTAMP(),"2","3");
+
+
+Select * from pedido INNER JOIN producto ON pedido.cod_compra = producto.id_producto;
+
+alter table cliente add sexo varchar(1) not null after TelCli;
+alter table cliente add ciudad varchar(30) not null after TelCli;
+
+alter table usuarios change idusuario idusuario int(10) primary key auto_increment;
+
+
+
+insert into cliente values(1,"Camilo","Monsalve","1017834562","3137555068","Medellin","M","cr 33 47 35","dextter1913@gmail.com","1");
+delete from cliente where id_cliente=1;
+
+

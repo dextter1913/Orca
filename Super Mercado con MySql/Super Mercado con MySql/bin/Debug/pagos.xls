@@ -1,0 +1,4 @@
+﻿id_cliente;NombreCli;ApellCli;CedulaCli;TelCli;ciudad;sexo;DireccionCl;CorreoCli;id_empleado
+1;Camilo;Monsalve;1017834562;3137555068;Medellin;M;cr 33 47 35;dextter1913@gmail.com;1
+3;Norena;Godoy;100064838;3135779037;Medellin;F;carrera 32 47 53;norenagodoy90@gmail.com;1
+4;Claudia Patricia;Cataño Castrillon;32290398;3147555068;Medellin;F;carrera 33 47 35;claudiacatano01@gmail.com;1
